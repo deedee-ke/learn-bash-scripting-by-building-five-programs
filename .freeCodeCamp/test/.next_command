@@ -57,3 +57,4 @@ chmod +x countdown.sh
 echo $1
 ./countdown.sh echo $1
 ./countdown.sh $1
+./countdown.sh arg1 arg2 arg3
