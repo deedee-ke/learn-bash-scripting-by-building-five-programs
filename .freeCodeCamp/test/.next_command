@@ -162,3 +162,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help
 help [[ expression ]]
 help test
+./countdown.sh 5
